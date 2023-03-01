@@ -16,6 +16,8 @@ And I'm a student developer
 
 [![MrShtash's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrShtash)](https://github.com/mrshtash/github-readme-stats&show_icons=true&theme=dark)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrshtash&repo=github-readme-stats)](https://github.com/mrshtash/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshtash)](https://github.com/mrshtash/github-readme-stats)
 
 
