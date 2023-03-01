@@ -14,7 +14,7 @@ And I'm a student developer
 
 ![cookie-monster-yay](https://user-images.githubusercontent.com/125918419/222141306-8bb0f3cd-8a0f-4c6a-93a1-7797495f1136.gif)
 
-[![MrShtash's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrShtash)](https://github.com/mrshtash/github-readme-stats&theme=dark)
+[![MrShtash's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrShtash)](https://github.com/mrshtash/github-readme-stats&theme=merko)
 
 
 
