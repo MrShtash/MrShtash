@@ -1,6 +1,8 @@
 # SHALOM 👋
 
-## My name is Shtash. Mr Shtash and I'm a student developer
+## My name is Shtash. Mr Shtash.
+
+And I'm a student developer
 
 - 🌱 I’m currently learning to understand characters in the code editor
 - 💬 Ask me about anything you want
