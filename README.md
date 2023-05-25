@@ -20,7 +20,7 @@ And I'm a student developer
 
 - 🤓 I’m currently learning to understand characters in the code editor
 - 💬 Ask me about anything you want
-- 📫 How to reach me: bassketb86@gmail.com
+- 📫 How to reach me: stanislav.tuf@gmail.com
 - ⚡ Fun fact: I thought I was a gymanitarian
 - 🍪 I love cookies
 
